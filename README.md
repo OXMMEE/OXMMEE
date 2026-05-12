@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ------------------
 
-I'm a Junior Developer with a strong passion for learning and continuous growth.
+I'm a Junior Developer.
 
 * 🌍  I'm based in Bangkok , Thailand
 * ✉️  You can contact me at [suvitcha.jitthai@gmail.com](mailto:suvitcha.jitthai@gmail.com)
